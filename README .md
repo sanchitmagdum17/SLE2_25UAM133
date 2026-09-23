@@ -4,7 +4,7 @@
 **PRN:** 25UAM133  
 **Name:** Sanchit Sachin Magdum  
 **Division:** B  
-**GitHub:** https://github.com/sanchitmagdum17/IAI-SLE-25UAM133
+**GitHub:** https://github.com/sanchitmagdum17
 
 ## 1. Project Overview
 
